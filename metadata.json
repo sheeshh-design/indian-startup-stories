@@ -1,0 +1,8 @@
+{
+  "name": "Remix Indian Startup Stories",
+  "description": "Real Founders. Real Journeys. Real Stories. The premier business editorial and case study platform documenting India\u0027s startup ecosystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
